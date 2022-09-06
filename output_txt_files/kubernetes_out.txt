@@ -1,1 +1,7 @@
-<paste log output from Kubernetes-mediated prediction, here>
+(.devops) Emerickd9@projectvm:~/ml_microservices$ sudo ./run_kubernetes.sh 
+Error from server (AlreadyExists): pods "projectml" already exists
+NAME        READY   STATUS    RESTARTS   AGE
+projectml   1/1     Running   0          7m38s
+Forwarding from 127.0.0.1:80 -> 80
+Forwarding from [::1]:80 -> 80
+
